@@ -806,7 +806,7 @@ end`
       <div className="bg-black py-2 overflow-hidden">
         <div className="animate-marquee whitespace-nowrap">
           <span className="text-2xl font-bold mx-4 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
-            PLANKTON4YOU.DEV COMMUNITY INDOXPLOIT & CYBER SECURITY
+            KEBUTUHAN HOSTING
           </span>
         </div>
       </div>
