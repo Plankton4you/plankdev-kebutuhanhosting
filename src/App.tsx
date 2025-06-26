@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 
 function App() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false);
-  const [audio] = useState(new Audio('https://files.catbox.moe/aylbnm'));
+  const [audio] = useState(new Audio('https://files.catbox.moe/fw4txr.mp3'));
   const [currentSection, setCurrentSection] = useState('home');
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedLanguage, setSelectedLanguage] = useState('');
