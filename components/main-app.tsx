@@ -23,7 +23,7 @@ import SuccessModal from "./success-modal"
 
 export default function MainApp() {
   const [isSidebarOpen, setIsSidebarOpen] = useState(false)
-  const [audio] = useState(typeof window !== "undefined" ? new Audio("https://files.catbox.moe/aylbnm") : null)
+  const [audio] = useState(typeof window !== "undefined" ? new Audio("https://files.catbox.moe/fw4txr.mp3") : null)
   const [currentSection, setCurrentSection] = useState("home")
   const [searchQuery, setSearchQuery] = useState("")
   const [selectedLanguage, setSelectedLanguage] = useState("")
