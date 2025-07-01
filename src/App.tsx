@@ -115,6 +115,13 @@ Just let me know what you'd like help with.`
   ];
 
   const videos = [
+    'https://files.catbox.moe/73h8it.mp4',
+    'https://files.catbox.moe/oxbv6r.mp4',
+    'https://files.catbox.moe/30l3mw.mp4',
+    'https://files.catbox.moe/eompwc.mp4',
+    'https://files.catbox.moe/hk54iu.mp4',
+    'https://files.catbox.moe/n0zh60.mp4',
+    'https://files.catbox.moe/fk0jnq.mp4',
     'https://files.catbox.moe/lu1je3.mp4',
     'https://files.catbox.moe/bxezej.mp4',
     'https://files.catbox.moe/9bugyh.mp4',
